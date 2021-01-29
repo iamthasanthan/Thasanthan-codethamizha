@@ -1,4 +1,4 @@
-<a href="www.codethamizha.ga"><img src="images/Screenshot from 2021-01-29 09-32-16.png" /></a>
+<img src="images/Screenshot from 2021-01-29 09-32-16.png" />
 
 ### Hi there 👋
 
