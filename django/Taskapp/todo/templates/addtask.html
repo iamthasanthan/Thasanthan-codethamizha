@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block head %}
+    {% load static%}
+    <link rel="stylesheet" href="{% static 'css/addtask.css' %}">
+{% endblock %}
+
+{% block body %}
+    <p>Add Tasks✔✔✔</p>
+
+    <form action="{% url 'todo:main' %}" method="post">
+        {% csrf_token %}
+        {{form}}
+        <input type="submit">
+    </form>
+    <br/>
+    <a href="{% url 'todo:main' %}">View Tasks</a>
+
+{% endblock %}

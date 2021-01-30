@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block head %}
+    {% load static%}
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+{% endblock %}
+
+{% block body %}
+    <h1>🚀Welcome To Thasa's Todo App✔</h1>
+    <a href="{% url 'todo:add' %}">Add Task</a>
+    <ul>
+        {% for task in tasks %}
+            <li>{{task}}</li>
+            {% empty %}
+            <li>No task Yet!</li>
+        {% endfor %}
+        
+    </ul>
+{% endblock %}
