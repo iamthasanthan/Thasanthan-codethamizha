@@ -1,4 +1,4 @@
-### 🔵 www.codethamizha.ga 🚀
+### 🔵 http://codethamizha.ga 🚀
 ### 📧Email: thasa@codethamizha.ga
 <img src="images/Screenshot from 2021-01-29 09-32-16.png" />
 
