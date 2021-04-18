@@ -1,6 +1,6 @@
 ### 🔵 https://codethamizha.com 🚀
 ### 📧Email: thasa@codethamizha.com
-<img src="images/Screenshot from 2021-01-29 09-32-16.png" />
+<img src="images/Purple and Green Auto Company Facebook Ad.png" />
 
 ### Hi there 👋
 
