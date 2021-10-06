@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Founder at <b>Code Thamizha</b> (www.codethamizha.com)
-- 🌱 I’m currently working For a American Company called as <b><a href="https://www.youtube.com/codethamizhathasatech">Kleui</a></b>
-- 👯 2K+ community on <a href="https://www.youtube.com/codethamizhathasatech">Youtube</a>
+- 🌱 I’m currently working For a American Company called as <b><a href="https://www.kleui.com/codethamizhathasatech">Kleui</a></b>
+- 👯 2K+ community on <a href="https://www.youtube.com/codethamizha">Youtube</a>
 - 💬 Ask me about advanced Django ReactJs Development
-- 📫 How to reach me: www.codethamizha.com/support
+- 📫 How to reach me: www.codethamizha.com/support	
