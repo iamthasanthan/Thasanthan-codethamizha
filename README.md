@@ -5,6 +5,7 @@
 
 ## I'm a Full Stack Developer!!
 
+- 💘 Lead Developer <a href="www.kleui.com">@kleui</a> 
 - 🖥 YouTuber, Instructor, WebDeveloper, Freelancer
 - 🛒 Undergraduate at <a href="https://ancedu.com">ANC</a>
 - 🔭 I just launched my webhero course: [Become A WebHero!][course]!
