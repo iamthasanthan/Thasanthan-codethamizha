@@ -46,9 +46,18 @@
 ---
 
 
-https://github-readme-stats.vercel.app/api?username=Thasanthan-Codethamizha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<a href="https://github.com/Thasanthan-CodeThamizha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thasanthan-CodeThamizha&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Thasanthan-CodeThamizha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thasanthan-CodeThamizha&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 [website]: https://www.codethamizha.com/
 [course]: http://webhero.codethamizha.com
