@@ -5,6 +5,8 @@
 
 ## I'm a Full Stack Developer!!
 
+- 🖥 YouTuber, Instructor, WebDeveloper, Freelancer
+- 🛒 Undergraduate at <a href="https://ancedu.com">ANC</a>
 - 🔭 I just launched my webhero course: [Become A WebHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
