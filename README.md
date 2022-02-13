@@ -1,7 +1,7 @@
 ### Hi there, I'm Thasa -  [CodeThamizha][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codethamizha.com&style=for-the-badge&url=https%3A%2F%2Fcodethamizha.com)](https://codethamizha.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/code_thamizha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcode_thamizha&screen_name=code_thamizha)
+[![Website](https://img.shields.io/website?label=codethamizha.com&style=for-the-badge&url=https%3A%2F%2Fcodethamizha.com)](https://devgriffins.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamthasanthan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamthasanthan&screen_name=iamthasanthan)
 
 ## I'm a Full Stack Developer!!
 
