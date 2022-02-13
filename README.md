@@ -5,8 +5,8 @@
 
 ## I'm a Full Stack Developer!!
 
-- 💘 Lead Developer <a href="www.kleui.com">@kleui</a> 
-- 🖥 YouTuber, Instructor, WebDeveloper, Freelancer
+- 💘 Founder <a href="www.devgriffins.com">@DevGriffins</a> 
+- 🖥 YouTuber, Instructor, WebDeveloper, Freelancer, Social Media Influencer
 - 🛒 Undergraduate at <a href="https://ancedu.com">ANC</a>
 - 🔭 I just launched my webhero course: [Become A WebHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codethamizha.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="devgriffins.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Thasa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Thasa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Thasa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -62,10 +62,10 @@
 
 </div>
 
-[website]: https://www.codethamizha.com/
+[website]: https://www.devgriffins.com/
 [course]: http://webhero.codethamizha.com
-[twitter]: https://twitter.com/code_thamizha
-[youtube]: https://youtube.com/codethamizha
+[twitter]: https://twitter.com/iamthasanthan
+[youtube]: https://youtube.com/Thasanthanofficial
 [instagram]: https://instagram.com/___.thasa.___/
 [linkedin]: https://www.linkedin.com/in/thasanthan-code-thamizha/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLGpOCs3xdXB25O_ayIdjtLAeS8o3NxVNJ
